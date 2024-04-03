@@ -29,10 +29,14 @@ def scrape_authors(url):
     authors = {}
     for author in soup.find_all('div', class_='quote'):
         author_name = author.find('small', class_='author').text
+        birthdate_tag = author.find('span', class_='author-born-date')
+        birthplace_tag = author.find('span', class_='author-born-location')
+        birthdate = birthdate_tag.text if birthdate_tag else None
+        birthplace = birthplace_tag.text if birthplace_tag else None
         author_info = {
             'name': author_name,
-            'birthdate': author.find('span', class_='author-born-date').text,
-            'birthplace': author.find('span', class_='author-born-location').text
+            'birthdate': birthdate,
+            'birthplace': birthplace
         }
         authors[author_name] = author_info
     return list(authors.values())

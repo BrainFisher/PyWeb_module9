@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Albert Einstein",
+        "birthdate": null,
+        "birthplace": null
+    },
+    {
+        "name": "J.K. Rowling",
+        "birthdate": null,
+        "birthplace": null
+    },
+    {
+        "name": "Jane Austen",
+        "birthdate": null,
+        "birthplace": null
+    },
+    {
+        "name": "Marilyn Monroe",
+        "birthdate": null,
+        "birthplace": null
+    },
+    {
+        "name": "André Gide",
+        "birthdate": null,
+        "birthplace": null
+    },
+    {
+        "name": "Thomas A. Edison",
+        "birthdate": null,
+        "birthplace": null
+    },
+    {
+        "name": "Eleanor Roosevelt",
+        "birthdate": null,
+        "birthplace": null
+    },
+    {
+        "name": "Steve Martin",
+        "birthdate": null,
+        "birthplace": null
+    }
+]
