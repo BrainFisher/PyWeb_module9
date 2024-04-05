@@ -1,42 +1,252 @@
 [
     {
-        "name": "Albert Einstein",
-        "birthdate": null,
-        "birthplace": null
+        "fullname": "Stephenie Meyer",
+        "born_date": "December 24, 1973",
+        "born_location": "in Connecticut, The United States"
     },
     {
-        "name": "J.K. Rowling",
-        "birthdate": null,
-        "birthplace": null
+        "fullname": "Alexandre Dumas fils",
+        "born_date": "July 27, 1824",
+        "born_location": "in Paris, France"
     },
     {
-        "name": "Jane Austen",
-        "birthdate": null,
-        "birthplace": null
+        "fullname": "Albert Einstein",
+        "born_date": "March 14, 1879",
+        "born_location": "in Ulm, Germany"
     },
     {
-        "name": "Marilyn Monroe",
-        "birthdate": null,
-        "birthplace": null
+        "fullname": "J.K. Rowling",
+        "born_date": "",
+        "born_location": ""
     },
     {
-        "name": "André Gide",
-        "birthdate": null,
-        "birthplace": null
+        "fullname": "Bob Marley",
+        "born_date": "February 06, 1945",
+        "born_location": "in Nine Mile, Saint Ann, Jamaica"
     },
     {
-        "name": "Thomas A. Edison",
-        "birthdate": null,
-        "birthplace": null
+        "fullname": "Jorge Luis Borges",
+        "born_date": "August 24, 1899",
+        "born_location": "in Buenos Aires, Argentina"
     },
     {
-        "name": "Eleanor Roosevelt",
-        "birthdate": null,
-        "birthplace": null
+        "fullname": "George Bernard Shaw",
+        "born_date": "July 26, 1856",
+        "born_location": "in Dublin, Ireland"
     },
     {
-        "name": "Steve Martin",
-        "birthdate": null,
-        "birthplace": null
+        "fullname": "Ernest Hemingway",
+        "born_date": "July 21, 1899",
+        "born_location": "in Oak Park, Illinois, The United States"
+    },
+    {
+        "fullname": "Ralph Waldo Emerson",
+        "born_date": "May 25, 1803",
+        "born_location": "in Boston, Massachusetts, The United States"
+    },
+    {
+        "fullname": "Madeleine L'Engle",
+        "born_date": "",
+        "born_location": ""
+    },
+    {
+        "fullname": "Friedrich Nietzsche",
+        "born_date": "October 15, 1844",
+        "born_location": "in R\u00f6cken bei L\u00fctzen, Prussian Province of Saxony, Germany"
+    },
+    {
+        "fullname": "George R.R. Martin",
+        "born_date": "",
+        "born_location": ""
+    },
+    {
+        "fullname": "Dr. Seuss",
+        "born_date": "",
+        "born_location": ""
+    },
+    {
+        "fullname": "Ayn Rand",
+        "born_date": "February 02, 1905",
+        "born_location": "in St. Petersburg, Russian Federation"
+    },
+    {
+        "fullname": "George Eliot",
+        "born_date": "November 22, 1819",
+        "born_location": "in South Farm, Arbury Hall, Nuneaton, Warwickshire, The United Kingdom"
+    },
+    {
+        "fullname": "James Baldwin",
+        "born_date": "August 02, 1924",
+        "born_location": "in Harlem, New York, The United States"
+    },
+    {
+        "fullname": "J.R.R. Tolkien",
+        "born_date": "",
+        "born_location": ""
+    },
+    {
+        "fullname": "Jimi Hendrix",
+        "born_date": "November 27, 1942",
+        "born_location": "in Seattle, Washington, The United States"
+    },
+    {
+        "fullname": "C.S. Lewis",
+        "born_date": "",
+        "born_location": ""
+    },
+    {
+        "fullname": "Marilyn Monroe",
+        "born_date": "June 01, 1926",
+        "born_location": "in The United States"
+    },
+    {
+        "fullname": "Douglas Adams",
+        "born_date": "March 11, 1952",
+        "born_location": "in Cambridge, England, The United Kingdom"
+    },
+    {
+        "fullname": "Allen Saunders",
+        "born_date": "April 24, 1899",
+        "born_location": "in The United States"
+    },
+    {
+        "fullname": "Charles M. Schulz",
+        "born_date": "",
+        "born_location": ""
+    },
+    {
+        "fullname": "E.E. Cummings",
+        "born_date": "",
+        "born_location": ""
+    },
+    {
+        "fullname": "Mother Teresa",
+        "born_date": "August 26, 1910",
+        "born_location": "in Skopje, Macedonia, the Former Yugoslav Republic of"
+    },
+    {
+        "fullname": "Haruki Murakami",
+        "born_date": "January 12, 1949",
+        "born_location": "in Kyoto, Japan"
+    },
+    {
+        "fullname": "Terry Pratchett",
+        "born_date": "April 28, 1948",
+        "born_location": "in Beaconsfield, Buckinghamshire, England, The United Kingdom"
+    },
+    {
+        "fullname": "J.M. Barrie",
+        "born_date": "",
+        "born_location": ""
+    },
+    {
+        "fullname": "Pablo Neruda",
+        "born_date": "July 12, 1904",
+        "born_location": "in Parral, Chile"
+    },
+    {
+        "fullname": "Steve Martin",
+        "born_date": "August 14, 1945",
+        "born_location": "in Waco, Texas, The United States"
+    },
+    {
+        "fullname": "Helen Keller",
+        "born_date": "June 27, 1880",
+        "born_location": "in Tuscumbia, Alabama, The United States"
+    },
+    {
+        "fullname": "Jane Austen",
+        "born_date": "December 16, 1775",
+        "born_location": "in Steventon Rectory, Hampshire, The United Kingdom"
+    },
+    {
+        "fullname": "Thomas A. Edison",
+        "born_date": "",
+        "born_location": ""
+    },
+    {
+        "fullname": "Garrison Keillor",
+        "born_date": "August 07, 1942",
+        "born_location": "in Anoka, Minnesota, The United States"
+    },
+    {
+        "fullname": "W.C. Fields",
+        "born_date": "",
+        "born_location": ""
+    },
+    {
+        "fullname": "Alfred Tennyson",
+        "born_date": "August 06, 1809",
+        "born_location": "in Somersby, Lincolnshire, The United Kingdom"
+    },
+    {
+        "fullname": "Martin Luther King Jr.",
+        "born_date": "",
+        "born_location": ""
+    },
+    {
+        "fullname": "Khaled Hosseini",
+        "born_date": "March 04, 1965",
+        "born_location": "in Kabul, Afghanistan"
+    },
+    {
+        "fullname": "John Lennon",
+        "born_date": "October 09, 1940",
+        "born_location": "in Liverpool, England, The United Kingdom"
+    },
+    {
+        "fullname": "Charles Bukowski",
+        "born_date": "August 16, 1920",
+        "born_location": "in Andernach, Germany"
+    },
+    {
+        "fullname": "Jim Henson",
+        "born_date": "September 24, 1936",
+        "born_location": "in Greenville, Mississippi, The United States"
+    },
+    {
+        "fullname": "Andr\u00e9 Gide",
+        "born_date": "",
+        "born_location": ""
+    },
+    {
+        "fullname": "Harper Lee",
+        "born_date": "April 28, 1926",
+        "born_location": "in Monroeville, Alabama, The United States"
+    },
+    {
+        "fullname": "Mark Twain",
+        "born_date": "November 30, 1835",
+        "born_location": "in Florida, Missouri, The United States"
+    },
+    {
+        "fullname": "Suzanne Collins",
+        "born_date": "August 11, 1962",
+        "born_location": "in Hartford, Connecticut, The United States"
+    },
+    {
+        "fullname": "George Carlin",
+        "born_date": "May 12, 1937",
+        "born_location": "in New York, New York, The United States"
+    },
+    {
+        "fullname": "J.D. Salinger",
+        "born_date": "",
+        "born_location": ""
+    },
+    {
+        "fullname": "Eleanor Roosevelt",
+        "born_date": "October 11, 1884",
+        "born_location": "in The United States"
+    },
+    {
+        "fullname": "William Nicholson",
+        "born_date": "January 12, 1948",
+        "born_location": "in Lewes, Sussex, The United Kingdom"
+    },
+    {
+        "fullname": "Elie Wiesel",
+        "born_date": "September 30, 1928",
+        "born_location": "in Sighet, Romania"
     }
 ]
